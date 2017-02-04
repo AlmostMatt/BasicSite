@@ -1,0 +1,3 @@
+[submodule "EternalDraft"]
+	path = EternalDraft
+	url = https://github.com/AlmostMatt/EternalDraft.git
